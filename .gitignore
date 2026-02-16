@@ -1,0 +1,18 @@
+# Unreal Engine generated
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# IDE
+.vs/
+.idea/
+*.VC.db
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.ipch
+
+# Rider
+**/.Rider/
